@@ -25,6 +25,8 @@ body {
   margin-bottom: 15rem;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@400;700&display=swap");
+
 .heading {
   font-family: "Averia Serif Libre", cursive;
   font-weight: 700;
