@@ -26,13 +26,12 @@ body {
 }
 
 .heading {
-  font-family: "Recoleta", sans-serif;
-  font-weight: 400;
+  font-family: "Averia Serif Libre", cursive;
+  font-weight: 700;
 }
 
 .heading-primary,
 .heading-secondary {
-  font-weight: 400;
   color: #0d0e10;
 }
 
