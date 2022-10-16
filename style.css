@@ -615,5 +615,5 @@ hr {
 }
 
 .social-icons:hover {
-  transform: translate(0px, -3px);
+  transform: translateY(-3px);
 }
