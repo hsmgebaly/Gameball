@@ -563,7 +563,13 @@ footer {
   text-decoration: none;
   color: #fff;
   margin-bottom: 1rem;
+  transition: all 0.3s;
 }
+
+.footer-links:hover {
+  color: #8b8b8b;
+}
+
 .grid-footer {
   display: grid;
   grid-template-columns: 1.5fr 1fr 1fr 1fr;
@@ -599,6 +605,15 @@ hr {
   color: #ffcf48;
 }
 
+.social-links {
+  text-decoration: none;
+}
+
 .social-icons {
   padding-right: 20px;
+  transition: all 0.3s;
+}
+
+.social-icons:hover {
+  transform: translate(0px, -3px);
 }
